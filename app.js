@@ -4,6 +4,7 @@ const hostname = '127.0.0.1';
 const port = 3000;
 
 //comment
+// another comment
 
 fs.readFile('index.html', (err,html) => {
 	if(err) {
