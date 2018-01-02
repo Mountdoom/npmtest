@@ -1,0 +1,14 @@
+{
+  "name": "npmtest",
+  "version": "1.0.0",
+  "description": "Test npm",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"hi there peeps\" && exit 0"
+  },
+  "author": "me",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^16.2.0"
+  }
+}
